@@ -1,0 +1,24 @@
+body
+{
+  font-family: 'Nunito', sans-serif;
+}
+
+.jumbotron-hero {
+  /* Choisis la hauteur ici */
+  height: 500px;
+
+  /* Tu lui donnes une image de background */
+  background-image: url("https://images.pexels.com/photos/2271107/pexels-photo-2271107.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500");
+
+  /* Centre l'image et la met bien sur tous les écrans */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  opacity: 0.7;
+}
+
+h1
+{
+  font-size: 4rem;
+  color: aquamarine;
+}
